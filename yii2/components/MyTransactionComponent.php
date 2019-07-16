@@ -184,7 +184,6 @@ class MyTransactionComponent extends \yii\base\Component
     /**
      * Добавление разрешения для студента по ключу доступа
      * @param int $user_id
-     * @param int $order_id
      * @param string $hash_128
      * @return boolean
      * @throws \Exception
